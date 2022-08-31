@@ -24,3 +24,7 @@ A tetris game made with [PyGame](https://www.pygame.org/)
 ```bash
     python ./main.py
 ```
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
