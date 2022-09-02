@@ -1,6 +1,6 @@
-# Tetris
+# Tetris (In Development)
 
-A tetris game made with [PyGame](https://www.pygame.org/)
+A tetris game made with [PyGame](https://www.pygame.org/) that is currently in development.
 
 ## Install & Run
 
